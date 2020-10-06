@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wiki="http://purl.org/rss/1.0/modules/wiki/" xmlns:html="http://www.w3.org/1999/xhtml">
+<channel rdf:about="http://www.info.uaic.ro">
+<title>
+Faculty of Computer Science Iaşi News
+</title>
+<link>http://www.info.uaic.ro</link>
+<description>
+Faculty of Computer Science Iaşi News
+</description>
+<image rdf:resource="http://www.info.uaic.ro/skins/fii/logo.png"/>
+<dc:language>en</dc:language>
+<dc:rights>2006-2018 Faculty of Computer Science Ia&#38;#351;i. Some rights reserved.</dc:rights>
+<dc:publisher>FII Site Admin</dc:publisher>
+<dc:creator>FII Site Admin</dc:creator>
+<items>
+<rdf:Seq>
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1811161457?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1810082335?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1810082330?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1810021253?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1809282006?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1809280900?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Main/N1809280859?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1809271157?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1809271042?language=ro" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1809261934?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1809261243?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1809211441?language=ro" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Main/N1809042236?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Main/N1807301920?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Main/N1807301915?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1806262058?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1806191023?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1806152142?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1806080850?language=" />
+<rdf:li rdf:resource="http://www.info.uaic.ro/bin/Students/N1806011020?language=" />
+</rdf:Seq>
+</items>
+</channel>
+<image rdf:about="http://www.info.uaic.ro/skins/fii/logo.png">
+  <title>XWiki Logo</title>
+  <link>http://www.info.uaic.ro</link>
+  <url>http://www.info.uaic.ro/skins/fii/logo.png</url>
+</image>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1811161457?language=">
+<title>Studenți - consimțământ privind prelucrarea  datelor cu caracter personal</title>
+<link>http://www.info.uaic.ro/bin/Students/N1811161457?language=</link>
+<description>În conformitate cu noua legislație privind protecția datelor</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-11-16T03:07:10+02:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1810082335?language=">
+<title>Mobilități studențești de studiu Erasmus+, semestrul 2</title>
+<link>http://www.info.uaic.ro/bin/Students/N1810082335?language=</link>
+<description>A început procesul de selecție </description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-10-08T11:39:43+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1810082330?language=">
+<title>Contracte de studii - cursanți</title>
+<link>http://www.info.uaic.ro/bin/Students/N1810082330?language=</link>
+<description>Cursanții înmatriculați la studii de licență și master</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-10-08T11:34:09+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1810021253?language=">
+<title>Burse sociale - semestrul 1, anul universitar 2018-2019</title>
+<link>http://www.info.uaic.ro/bin/Students/N1810021253?language=</link>
+<description>Dosarele pentru acordarea burselor sociale </description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-10-02T12:58:44+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1809282006?language=">
+<title>Repartizarea studenților pe grupe în anul universitar 2018-2019</title>
+<link>http://www.info.uaic.ro/bin/Students/N1809282006?language=</link>
+<description>Repartizarea pe grupe a studenților de nivel licență</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-09-28T08:12:29+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1809280900?language=">
+<title>Deschiderea anului universitar 2018-2019</title>
+<link>http://www.info.uaic.ro/bin/Students/N1809280900?language=</link>
+<description>Festivitatea de deschidere a anului universitar 2018-2019</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-09-28T09:01:23+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Main/N1809280859?language=">
+<title>Ceremonia de acordare a titlului de Profesor de Onoare al Universității „Alexandru Ioan Cuza” din Iași domnului Profesor Irinel Drăgan</title>
+<link>http://www.info.uaic.ro/bin/Main/N1809280859?language=</link>
+<description>Vineri, 28 septembrie 2018</description>
+<dc:subject>News</dc:subject>
+<dc:date>2018-09-28T09:00:26+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1809271157?language=">
+<title>Cazare 2018 - etapa a 2-a</title>
+<link>http://www.info.uaic.ro/bin/Students/N1809271157?language=</link>
+<description>Lista studenților care beneficiază de cazare</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-09-27T11:59:26+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1809271042?language=ro">
+<title>Cazare 2018 - etapa a 2-a</title>
+<link>http://www.info.uaic.ro/bin/Students/N1809271042?language=ro</link>
+<description>The extract will appear on the home and category pages.</description>
+<dc:subject></dc:subject>
+<dc:date>2018-09-27T10:48:07+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1809261934?language=">
+<title>Repartizarea studenților pe discipline opționale</title>
+<link>http://www.info.uaic.ro/bin/Students/N1809261934?language=</link>
+<description>Repartizarea studenților din anii II și III</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-09-26T07:39:05+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1809261243?language=">
+<title>În atenţia studenţilor reînmatriculaţi în luna septembrie 2018</title>
+<link>http://www.info.uaic.ro/bin/Students/N1809261243?language=</link>
+<description>Studenţii din anii de studii II şi III licență</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-09-26T07:40:13+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1809211441?language=ro">
+<title>Cazare 2018</title>
+<link>http://www.info.uaic.ro/bin/Students/N1809211441?language=ro</link>
+<description>Lista studenților care beneficiază de cazare în anul universitar 2018-2019 </description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-09-21T04:18:33+03:00</dc:date>
+<dc:creator>Alex Moruz</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Alex Moruz</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Main/N1809042236?language=">
+<title>Gradul didactic I, seria 2017-2019 - rezultate evaluare</title>
+<link>http://www.info.uaic.ro/bin/Main/N1809042236?language=</link>
+<description>Rezultatele evaluării lucrărilor</description>
+<dc:subject>News</dc:subject>
+<dc:date>2018-09-04T10:39:00+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Main/N1807301920?language=">
+<title>Gradul didactic I, seria 2017-2019</title>
+<link>http://www.info.uaic.ro/bin/Main/N1807301920?language=</link>
+<description>În conformitate cu Metodologia formării continue a personalului didactic din învăţământul preuniversitar</description>
+<dc:subject>News</dc:subject>
+<dc:date>2018-07-30T07:24:01+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Main/N1807301915?language=">
+<title>Grad II - Informatică - august 2018</title>
+<link>http://www.info.uaic.ro/bin/Main/N1807301915?language=</link>
+<description>Calendarul privind desfăşurarea examenelor în sesiunea august 2018</description>
+<dc:subject>News</dc:subject>
+<dc:date>2018-07-30T07:19:34+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1806262058?language=">
+<title>Programul Național &#34;Tabere Studențești&#34; 2018</title>
+<link>http://www.info.uaic.ro/bin/Students/N1806262058?language=</link>
+<description>Repartizarea locurilor de tabără</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-06-26T09:03:43+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1806191023?language=">
+<title>Examen de licenţă - sesiunea iulie 2018</title>
+<link>http://www.info.uaic.ro/bin/Students/N1806191023?language=</link>
+<description>Înscrierile se fac la secretariatul Facultăţii de Informatică</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-06-19T10:25:19+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1806152142?language=">
+<title>Examen de disertaţie - sesiunea iulie 2018</title>
+<link>http://www.info.uaic.ro/bin/Students/N1806152142?language=</link>
+<description>Înscrierile se fac la secretariatul Facultăţii de Informatică, în perioada</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-06-19T10:22:36+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1806080850?language=">
+<title>Programul Național &#34;Tabere Studențești&#34; 2018</title>
+<link>http://www.info.uaic.ro/bin/Students/N1806080850?language=</link>
+<description>Rezultatele selecţiei pentru Programul Național &#34;Tabere Studențești&#34; 2018</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-06-08T09:00:08+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+<item rdf:about="http://www.info.uaic.ro/bin/Students/N1806011020?language=">
+<title>Programul Național &#34;Tabere Studențești&#34; 2018</title>
+<link>http://www.info.uaic.ro/bin/Students/N1806011020?language=</link>
+<description>Comisia de selecție pentru Programul Național &#34;Tabere Studențești&#34; 2018</description>
+<dc:subject>StudentNews</dc:subject>
+<dc:date>2018-06-01T10:22:58+03:00</dc:date>
+<dc:creator>Gabriel Negară</dc:creator>
+<dc:contributor>
+<rdf:Description link="">
+<rdf:value>Gabriel Negară</rdf:value>
+</rdf:Description>
+</dc:contributor>
+</item>
+</rdf:RDF>

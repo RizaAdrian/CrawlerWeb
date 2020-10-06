@@ -1,0 +1,206 @@
+var menuEntries = new Object();
+menuEntries["xwmeProfile"] = new Array();
+var o = new Object();
+o.id = "ProfilePresentation";
+o.name = "Presentation";
+o.address = "/bin/Profile/Presentation";
+menuEntries["xwmeProfile"].push(o);
+var o = new Object();
+o.id = "ProfileFacilities";
+o.name = "Facilities";
+o.address = "/bin/Profile/Facilities";
+menuEntries["xwmeProfile"].push(o);
+var o = new Object();
+o.id = "ProfileAgenda";
+o.name = "Agenda";
+o.address = "/bin/Profile/Agenda";
+menuEntries["xwmeProfile"].push(o);
+var o = new Object();
+o.id = "ProfileIndustrialCollaborations";
+o.name = "Industrial Collaborations";
+o.address = "/bin/Profile/IndustrialCollaborations";
+menuEntries["xwmeProfile"].push(o);
+var o = new Object();
+o.id = "ProfileContact";
+o.name = "Contact";
+o.address = "/bin/Profile/Contact";
+menuEntries["xwmeProfile"].push(o);
+menuEntries["xwmePrograms"] = new Array();
+var o = new Object();
+o.id = "ProgramsOverview";
+o.name = "Overview";
+o.address = "/bin/Programs/Overview";
+menuEntries["xwmePrograms"].push(o);
+var o = new Object();
+o.id = "ProgramsUndergraduate";
+o.name = "Undergraduate Studies";
+o.address = "/bin/Programs/Undergraduate";
+menuEntries["xwmePrograms"].push(o);
+var o = new Object();
+o.id = "ProgramsMaster";
+o.name = "Master Studies";
+o.address = "/bin/Programs/Master";
+menuEntries["xwmePrograms"].push(o);
+var o = new Object();
+o.id = "ProgramsPhD";
+o.name = "Doctoral School";
+o.address = "/bin/Programs/PhD";
+menuEntries["xwmePrograms"].push(o);
+menuEntries["xwmeStructure"] = new Array();
+var o = new Object();
+o.id = "StructureAcademic";
+o.name = "Academic Staff";
+o.address = "/bin/Structure/Academic";
+menuEntries["xwmeStructure"].push(o);
+var o = new Object();
+o.id = "StructureAssociated";
+o.name = "Associated Staff";
+o.address = "/bin/Structure/Associated";
+menuEntries["xwmeStructure"].push(o);
+var o = new Object();
+o.id = "StructureManagement";
+o.name = "Management";
+o.address = "/bin/Structure/Management";
+menuEntries["xwmeStructure"].push(o);
+var o = new Object();
+o.id = "StructureAdministration";
+o.name = "Technical and administrative staff";
+o.address = "/bin/Structure/Administration";
+menuEntries["xwmeStructure"].push(o);
+var o = new Object();
+o.id = "StructureAlumni";
+o.name = "Alumni";
+o.address = "/bin/Structure/Alumni";
+menuEntries["xwmeStructure"].push(o);
+menuEntries["xwmeResearch"] = new Array();
+var o = new Object();
+o.id = "ResearchOverview";
+o.name = "Overview";
+o.address = "/bin/Research/Overview";
+menuEntries["xwmeResearch"].push(o);
+var o = new Object();
+o.id = "ResearchCollaborations";
+o.name = "Collaborations";
+o.address = "/bin/Research/Collaborations";
+menuEntries["xwmeResearch"].push(o);
+var o = new Object();
+o.id = "ResearchVisits";
+o.name = "Visiting Researchers and Professors";
+o.address = "/bin/Research/Visits";
+menuEntries["xwmeResearch"].push(o);
+var o = new Object();
+o.id = "ResearchEvents";
+o.name = "Events";
+o.address = "/bin/Research/Events";
+menuEntries["xwmeResearch"].push(o);
+var o = new Object();
+o.id = "ResearchScientificAnnals";
+o.name = "Scientific Annals";
+o.address = "/bin/Research/ScientificAnnals";
+menuEntries["xwmeResearch"].push(o);
+var o = new Object();
+o.id = "ResearchTehnicalReports";
+o.name = "Technical Reports";
+o.address = "/bin/Research/TehnicalReports";
+menuEntries["xwmeResearch"].push(o);
+menuEntries["xwmeStudents"] = new Array();
+var o = new Object();
+o.id = "StudentsAcademicYear1011";
+o.name = "Academic year 2010-2011";
+o.address = "/bin/Students/AcademicYear1011";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsAdmission";
+o.name = "Admission 2014";
+o.address = "/bin/Students/Admission";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsAcademicYear1112";
+o.name = "Academic year 2011-2012";
+o.address = "/bin/Students/AcademicYear1112";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsTimetable";
+o.name = "Timetable";
+o.address = "/bin/Students/Timetable";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsExamCalendar";
+o.name = "Exams";
+o.address = "/bin/Students/ExamCalendar";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsGraduation";
+o.name = "Graduation";
+o.address = "/bin/Students/Graduation";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsAssociations";
+o.name = "Student Associations";
+o.address = "/bin/Students/Associations";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsInternalRules";
+o.name = "Regulations";
+o.address = "/bin/Students/InternalRules";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsAnnouncements";
+o.name = "Announcements";
+o.address = "/bin/Students/Announcements";
+menuEntries["xwmeStudents"].push(o);
+var o = new Object();
+o.id = "StudentsFiiStudent";
+o.name = "FII Student Blog";
+o.address = "/bin/Students/FiiStudent";
+menuEntries["xwmeStudents"].push(o);
+function computeAbsoluteLeft(element) {
+  x = element.offsetLeft;
+  tmp = element.offsetParent;
+  while (tmp != null && (tmp.getAttribute("id") != "withoutfooter")) {
+    x += tmp.offsetLeft;
+    tmp = tmp.offsetParent;
+  }
+  return x;
+}
+function computeAbsoluteTop(element) {
+  y = element.offsetTop;
+  tmp = element.offsetParent;
+  while (tmp != null && (tmp.getAttribute("id") != "withoutfooter") && (tmp.getAttribute("id") != "nav_header_perm")) {
+    y += tmp.offsetTop;
+    tmp = tmp.offsetParent;
+  }
+  return y + element.offsetHeight;
+}
+function createTextNode(str){
+  var div = document.createElement("div");
+  div.innerHTML = str;
+  return div.innerHTML.replace(/ /g, String.fromCharCode(160));
+}
+function createMenu(){
+  for(var menu in menuEntries){
+    var htmlEntry = document.getElementById(menu);
+    if(!htmlEntry){
+      continue;
+    }
+    if(menuEntries[menu].length == 0){
+      continue;
+    }
+    var container = document.createElement("span");
+    container.setAttribute("class", "hidden submenu");
+    container.className = "hidden submenu";
+    htmlEntry.parentNode.appendChild(container);
+    for(var i = 0; i < menuEntries[menu].length; i++){
+      var div = document.createElement("span");
+      div.setAttribute("class", "submenuitem");
+      div.className = "submenuitem";
+      var a = document.createElement("a");
+      a.setAttribute("href", menuEntries[menu][i].address);
+      var txt = document.createTextNode(createTextNode(menuEntries[menu][i].name));
+      a.appendChild(txt);
+      div.appendChild(a);
+      div.appendChild(document.createTextNode(" "));
+      container.appendChild(div);
+    }
+  }
+}

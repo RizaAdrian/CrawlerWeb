@@ -1,0 +1,7 @@
+#contentcolumn{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+#allcontentcontainerback, #allcontentcontainer, #allcontentcontainer2, #contentcontainer{
+  background-image: none;
+}
